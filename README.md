@@ -202,7 +202,7 @@ php artisan serve
 
 ## Anda bisa mengaksesnya link seperti dibawah ini
 
-http://localhost:8000/
+http://localhost:8000/books
 
 ## Pastikan XAMPP Nyala ya ges
 
@@ -619,7 +619,7 @@ php artisan serve
 ```
 
 ## Akses Domain
-http://localhost:8000/
+http://localhost:8000/books
 
 ## Kalo masih ada pesan gagal/eror ikutin Instalasi dibawah ini
 ```bash
